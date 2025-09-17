@@ -13,3 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+{
+    "$schema": "node_modules/wrangler/config-schema.json",
+    "name": "houstonfisher-com",
+    "compatibility_date": "2025-09-17",
+    "assets": {
+        "directory": "./dist"
+    },
+    "observability": {
+        "enabled": true
+    }
+}
