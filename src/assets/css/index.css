@@ -39,16 +39,17 @@ header {
 }
 
 .icon {
-    padding-top: 0.5rem;
-    padding-right: 1rem;
-    font-size: 40pt;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    font-size: 70pt;
 }
 
 .title {
-    font-size: 25pt;
+    font-size: 50pt;
     font-weight: bold;
 }
 
 .description {
+    font-size: 30pt;
     color: rgb(96, 96, 96);
 }
